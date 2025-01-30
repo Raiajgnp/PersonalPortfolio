@@ -217,7 +217,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "html&css",
         color: "pink-text-gradient",
       },
     ],
