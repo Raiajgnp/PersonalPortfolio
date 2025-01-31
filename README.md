@@ -35,9 +35,3 @@ This is a personal website designed to display my portfolio, including:
 
 ## ⚡Credits
 - This website is built using HTML, CSS, and JavaScript. I also followed a guided tutorial for this website and credits go to the original author.
-
-## 📬 Contact
-Feel free to reach out via:
-- Email: your-email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Website](https://yourwebsite.com)
